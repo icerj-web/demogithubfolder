@@ -1,0 +1,18 @@
+THis is my first demo file in git hub
+created account
+login
+download git and install in pc
+check it by command prompt git and git --version
+enter userame by using following below command
+git config --global user.name "username"
+git config --global user.email "yourmail ID"
+
+Now create folder in desktop ex:demofolder
+CHECK whther hidden folder is created once you clone your folder in pc with github
+then go to VSC VISUAL STUDIO CODE
+OPEN FOLDER --- Select folder which you already created in desktop "demofolder"
+now going to connect this folder with github repository
+click ... 3 dot --> TERMINAL -->NEW TERMINAL
+ENTER below command to clone 
+git clone ENTERLINK OF GITHUB REPOSITORY (LINK OF DEMOGITHUB FOLDER WHICH YOU CREATED IN GITHUB)
+CLONING.......
